@@ -1,7 +1,13 @@
 #main {
-  background: blue;
+  background: white;
   height: 1000%;
   width: 100%;
   position: fixed;
   overflow: hidden;
+}
+
+#logo {
+  background-image: url(./logo.jpg);
+  overflow: hidden;
+  background-size: contain;
 }
