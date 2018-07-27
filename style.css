@@ -4,11 +4,10 @@
   width: 100%;
   position: fixed;
   overflow: hidden;
-  z-index:
+  z-index: -1;
 }
 
 #logo {
-  background-image: url(logo.jpg);
-  overflow: hidden;
+  background-image: url(./logo.jpg);
   background-size: contain;
 }
