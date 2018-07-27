@@ -1,6 +1,7 @@
 #main {
   background: white;
   height: 1000%;
-  width: 1000%;
+  width: 100%;
   position: fixed;
+  overflow: hidden;
 }
