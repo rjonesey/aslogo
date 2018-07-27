@@ -8,7 +8,7 @@
 }
 
 #logo {
-  background-image: url(./logo.jpg);
+  background-image: url(logo.jpg);
   overflow: hidden;
   background-size: contain;
 }
