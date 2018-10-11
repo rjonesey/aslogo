@@ -1,3 +1,13 @@
+#body {
+  position: absolute;
+  height:100%;
+  width:100%;
+  background: url(./photo3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
 #main {
   position: absolute;
   margin-top: 90%;
@@ -10,4 +20,9 @@
 #content {
   font-size: 140%;
   color: black;
+  font-family: 'Roboto Condensed';
+}
+
+#release {
+  font-family: 'Roboto Condensed';
 }
