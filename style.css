@@ -1,4 +1,4 @@
-#body {
+/* #body {
   position: absolute;
   height:100%;
   width:100%;
@@ -6,7 +6,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
-}
+} */
 
 #main {
   position: absolute;
@@ -24,5 +24,7 @@
 }
 
 #release {
+  text-align: center;
   font-family: 'Roboto Condensed';
+  margin-top: 90%;
 }
